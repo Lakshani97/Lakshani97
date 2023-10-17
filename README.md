@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshani Dharmarathna</h1>
 <h3 align="center">Passionate in full stack development</h3>
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani97&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani97" /> </p>
 
