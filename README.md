@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshani Dharmarathna</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02080B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshani+Dharmarathna" alt="Typing SVG" /></a></h1>
 <h3 align="center">Passionate in full stack development</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 
