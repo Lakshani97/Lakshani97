@@ -6,7 +6,7 @@
 
 - 🎓 I’m studied at University of Moratuwa - **B.Sc.(Hons.) in Information Technology**
 
-- 🌱 I’m currently learning **AngularJs and .NET**
+- 🌱 I’m currently learning **Angular and .NET**
 
 - ⚡ Fun fact **I love to watch youtube**
 
