@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular and .NET**
 
-- ⚡ Fun fact **I love to watch youtube**
+- ⚡ Fun fact **I love to watch youtube video**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
