@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02080B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshani+Dharmarathna" alt="Typing SVG" /></a></h1>
-<h3 align="center">Passionate in full stack development</h3>
+<h3 align="center">Passionate full stack developer</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani97&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani97" /> </p>
@@ -38,10 +38,8 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshani97&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lakshani97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshani97&show_icons=true&locale=en&theme=tokyonight" alt="lakshani97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshani97&theme=tokyonight" alt="lakshani97" /></p>
-
